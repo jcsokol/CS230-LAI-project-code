@@ -1,3 +1,3 @@
 # CS230-LAI-project-code
 
-I have created this repository for us to store all of our attempted models in. 
+A repository for experimental CS230 class models used to predict the geographic ancestries of genetic sequences at a base-pair resolution. 
